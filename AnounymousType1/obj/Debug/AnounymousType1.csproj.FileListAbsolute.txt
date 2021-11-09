@@ -1,0 +1,10 @@
+C:\Users\Gabalus\Source\Repos\AnonymousType\AnounymousType1\bin\Debug\AnounymousType1.exe.config
+C:\Users\Gabalus\Source\Repos\AnonymousType\AnounymousType1\bin\Debug\AnounymousType1.exe
+C:\Users\Gabalus\Source\Repos\AnonymousType\AnounymousType1\bin\Debug\AnounymousType1.pdb
+C:\Users\Gabalus\Source\Repos\AnonymousType\AnounymousType1\obj\Debug\AnounymousType1.csprojAssemblyReference.cache
+C:\Users\Gabalus\Source\Repos\AnonymousType\AnounymousType1\obj\Debug\AnounymousType1.Form1.resources
+C:\Users\Gabalus\Source\Repos\AnonymousType\AnounymousType1\obj\Debug\AnounymousType1.Properties.Resources.resources
+C:\Users\Gabalus\Source\Repos\AnonymousType\AnounymousType1\obj\Debug\AnounymousType1.csproj.GenerateResource.cache
+C:\Users\Gabalus\Source\Repos\AnonymousType\AnounymousType1\obj\Debug\AnounymousType1.csproj.CoreCompileInputs.cache
+C:\Users\Gabalus\Source\Repos\AnonymousType\AnounymousType1\obj\Debug\AnounymousType1.exe
+C:\Users\Gabalus\Source\Repos\AnonymousType\AnounymousType1\obj\Debug\AnounymousType1.pdb

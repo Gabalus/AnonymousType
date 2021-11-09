@@ -1,0 +1,13 @@
+C:\Users\Gabalus\Source\Repos\AnonymousType\AnonymousType 1\bin\Debug\netcoreapp3.1\AnonymousType 1.exe
+C:\Users\Gabalus\Source\Repos\AnonymousType\AnonymousType 1\bin\Debug\netcoreapp3.1\AnonymousType 1.deps.json
+C:\Users\Gabalus\Source\Repos\AnonymousType\AnonymousType 1\bin\Debug\netcoreapp3.1\AnonymousType 1.runtimeconfig.json
+C:\Users\Gabalus\Source\Repos\AnonymousType\AnonymousType 1\bin\Debug\netcoreapp3.1\AnonymousType 1.runtimeconfig.dev.json
+C:\Users\Gabalus\Source\Repos\AnonymousType\AnonymousType 1\bin\Debug\netcoreapp3.1\AnonymousType 1.dll
+C:\Users\Gabalus\Source\Repos\AnonymousType\AnonymousType 1\bin\Debug\netcoreapp3.1\AnonymousType 1.pdb
+C:\Users\Gabalus\Source\Repos\AnonymousType\AnonymousType 1\obj\Debug\netcoreapp3.1\AnonymousType 1.csprojAssemblyReference.cache
+C:\Users\Gabalus\Source\Repos\AnonymousType\AnonymousType 1\obj\Debug\netcoreapp3.1\AnonymousType 1.csproj.CoreCompileInputs.cache
+C:\Users\Gabalus\Source\Repos\AnonymousType\AnonymousType 1\obj\Debug\netcoreapp3.1\AnonymousType 1.AssemblyInfoInputs.cache
+C:\Users\Gabalus\Source\Repos\AnonymousType\AnonymousType 1\obj\Debug\netcoreapp3.1\AnonymousType 1.AssemblyInfo.cs
+C:\Users\Gabalus\Source\Repos\AnonymousType\AnonymousType 1\obj\Debug\netcoreapp3.1\AnonymousType 1.dll
+C:\Users\Gabalus\Source\Repos\AnonymousType\AnonymousType 1\obj\Debug\netcoreapp3.1\AnonymousType 1.pdb
+C:\Users\Gabalus\Source\Repos\AnonymousType\AnonymousType 1\obj\Debug\netcoreapp3.1\AnonymousType 1.genruntimeconfig.cache
